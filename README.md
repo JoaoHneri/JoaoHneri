@@ -11,6 +11,7 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Best Technologies</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
