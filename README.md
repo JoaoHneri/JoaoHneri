@@ -5,8 +5,6 @@
 </p>
 
 <div align="center">
-  
-  ![João Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohneri&show_icons=true&theme=dark&hide=issues&count_private=true)
 
   <h2>🚀 Best Technologies</h2>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Time"/>
@@ -14,12 +12,15 @@
   <br/>
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+    <img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img height="40" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <img height="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img height="40" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img height="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+    
   </div>
 </div>
 
@@ -38,12 +39,11 @@
 
 ---
 
-<div align="center">
-  <h3>📊 Top Linguagens</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohneri&layout=compact&theme=dark" />
-  </a>
+<!-- <div align="center">
+ <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoHneri&theme=tokyo-night&hide_border=true" width="100%"/> 
 </div>
+</div> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="End Animation" />
