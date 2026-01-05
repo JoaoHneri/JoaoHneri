@@ -104,6 +104,18 @@ Atualmente aprofundando conhecimentos em **Java, Spring Boot, AWS, Terraform e I
 
 ---
 
+### 📊 GitHub Stats
+
+
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoHneri&theme=tokyo-night&hide_border=true" width="100%"/> 
+</div>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 </p>
