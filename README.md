@@ -1,50 +1,109 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1f1f&height=110&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João;I'm+21+years+old;I'm+from+Brazil;+Be+Welcome!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=34&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+João+Henrique;Desenvolvedor+Full-Stack;21+anos+|+Brasil+🇧🇷;Bem-vindo+ao+meu+perfil!+🚀" />
 </p>
 
-<div align="center">
-
-  <h2>🚀 Best Technologies</h2>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Time"/>
-
-  <br/>
-
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img height="40" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img height="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img height="40" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img height="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-    
-  </div>
-</div>
-
 ---
-<div align="center">
-  <a href="https://instagram.com/joaoneri.00" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:joaohnsousa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/joão-henrique-508808240/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+
+## 👨‍💻 Quem sou eu
+
+<table>
+<tr>
+<td width="65%">
+
+🎓 Estudante de **Sistemas de Informação (IFBA)** – 4º semestre  
+💼 **Desenvolvedor Full-Stack**, com foco em aplicações modernas e escaláveis  
+🚀 Apaixonado por tecnologia, código limpo e boas práticas  
+
+Atuo tanto no **Front-end** quanto no **Back-end**, entregando soluções eficientes, performáticas e bem estruturadas para problemas reais.
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- <div align="center">
- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoHneri&theme=tokyo-night&hide_border=true" width="100%"/> 
-</div>
-</div> -->
+## 🚀 Tecnologias Principais
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="End Animation" />
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+</p>
+
+---
+
+## 🧠 Atuação Técnica (horizontal)
+
+<table>
+<tr>
+<td width="33%">
+
+### 🎨 Front-end
+- Angular | React | Next.js  
+- Layouts responsivos  
+- Componentização e UX  
+
+</td>
+<td width="33%">
+
+### ⚙️ Back-end
+- Node.js (Fastify & NestJS)  
+- APIs REST  
+- WebSockets e integrações  
+
+</td>
+<td width="33%">
+
+### 🗄️ Dados & Infra
+- MongoDB | MySQL | PostgreSQL  
+- Docker (básico/intermediário)  
+- Arquitetura limpa  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experiência Profissional (resumo)
+
+✔ Desenvolvimento de **APIs RESTful**  
+✔ Aplicações Full-Stack em produção  
+✔ Integrações com serviços externos  
+✔ Código modular, reutilizável e escalável  
+
+Atualmente aprofundando conhecimentos em **Java, Spring Boot, AWS, Terraform e IA**.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-henrique-neri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaohneris@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/joaoneri.00" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 </p>
