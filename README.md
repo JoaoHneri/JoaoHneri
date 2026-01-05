@@ -44,7 +44,7 @@ Atuo tanto no **Front-end** quanto no **Back-end**, entregando soluções eficie
 
 ---
 
-## 🧠 Atuação Técnica (horizontal)
+## 🧠 Atuação Técnica
 
 <table>
 <tr>
